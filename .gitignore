@@ -30,6 +30,11 @@ yarn-error.*
 .DS_Store
 *.pem
 
+# editor settings
+
+# logs
+*.log
+
 # local env files
 .env*.local
 
@@ -41,3 +46,4 @@ app-example
 # generated native folders
 /ios
 /android
+config.bat
